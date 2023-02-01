@@ -37,7 +37,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_de89edf70a794219b590fc97904c4b42: 100
-    - _Fade: 0.434
+    - _Fade: 1
     - _Range: 0.238
     m_Colors:
     - _Color: {r: 2.9960785, g: 2.0235295, b: 0, a: 0}
