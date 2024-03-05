@@ -38,7 +38,7 @@ Material:
     m_Floats:
     - Vector1_de89edf70a794219b590fc97904c4b42: 100
     - _Fade: 1
-    - _Range: 0.106
+    - _Range: 0.217
     m_Colors:
     - _Color: {r: 1, g: 0.22568515, b: 0, a: 0}
   m_BuildTextureStacks: []
